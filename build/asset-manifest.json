@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ff41c724.js",
+    "static/js/787.49acbb29.chunk.js": "/static/js/787.49acbb29.chunk.js",
+    "static/media/DigitalGroveLogo.png": "/static/media/DigitalGroveLogo.2a8d665c67d007b9f9d7.png",
+    "index.html": "/index.html",
+    "main.ff41c724.js.map": "/static/js/main.ff41c724.js.map",
+    "787.49acbb29.chunk.js.map": "/static/js/787.49acbb29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff41c724.js"
+  ]
+}
